@@ -29,6 +29,9 @@ Onde podem me encontrar:
     <a href="https://www.instagram.com/michael_analyst/">
     <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Socialicons/74310-instagram-icons-media-computer-social-logo.png">
   </a>
+  <a href="https://wa.me/5528999021663">
+  <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Socialicons/whats.png">
+  </a>
 </div>
 
 
