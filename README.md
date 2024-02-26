@@ -25,9 +25,10 @@ Onde podem me encontrar:
 <div>
 <a href="https://www.linkedin.com/in/michaell-lemos/">
   <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Socialicons/linkedin_icon-icons.com_59208.png">
-  <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Socialicons/74310-instagram-icons-media-computer-social-logo.png">
-  <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Socialicons/whats.png">
-</a>
+  </a>
+    <a href="https://www.instagram.com/michael_analyst/">
+    <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Socialicons/74310-instagram-icons-media-computer-social-logo.png">
+  </a>
 </div>
 
 
