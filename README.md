@@ -9,20 +9,24 @@
 - <a href="https://github.com/Michael-Lemos/DesempenhoEnsino">Clique aqui</a>
 
 - ![Texto alternativo](https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_TelaGeral.png?raw=true)
-
 - ![Texto alternativo](https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true)
-
 - ![Texto alternativo](https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Performance_TurmaXDisciplina.png?raw=true)
 
 
 Principais Ferramentas:
 
 <div>
-  <img height="40" widht="40" src=""
-
-  
+  <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Linguagens/Python.png">
+  <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Linguagens/sql-logo.png">
+  <img height="40" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Linguagens/Microsoft-Power-BI-Logo.png">  
 </div>
 
+Onde podem me encontrar:
+<div>
+<a href="">
+  <img src="">
+</a>
+</div>
 
 
 
