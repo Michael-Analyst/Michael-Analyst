@@ -7,13 +7,6 @@
 - 🌱 Ensinando todos os dias aquilo que eu aprendo
 - 💞️ Sonhando em ser Analista de Dados
 
-- <a href="https://github.com/Michael-Lemos/DesempenhoEnsino">Clique aqui</a>
-
-- ![Texto alternativo](https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_TelaGeral.png?raw=true)
-- ![Texto alternativo](https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true)
-- ![Texto alternativo](https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Performance_TurmaXDisciplina.png?raw=true)
-
-
 Principais Ferramentas:
 
 <div>
@@ -35,7 +28,25 @@ Onde podem me encontrar:
   </a>
 </div>
 
+<br>
+
+## Portifólio e Principais Projetos
+
+### Análise de Performance de Alunos
+<img align="right" widht="500" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true">
+ Projeto desenvolvido para análise e entendimento da performance dos alunos em uma Escola de Ensino Médio, no Estado do Espírito Santo. utilizando a linguagem Dax para medidas e
+ cálculos.<br> <br>
+ Principais desafios: <br>
+ -Desenvolver medidas com a linguagem DAX.<br>
+ -Medir a performance e comparar turmas de anos diferentes e fazer comparativos entre as disciplinas ao decorrer do ano.<br>
+ -Interpretação de performance dos alunos por distinção de sexo.<br>
+ -Identificar turmas e disciplinas com percentual abaixo do mínimo.
+ <br>
+ <br>
+ <a href="https://github.com/Michael-Lemos/DesempenhoEnsino">
+  Clique aqui para acessar o repositório no Github
+  </a>
 
 
 
-
+ 
