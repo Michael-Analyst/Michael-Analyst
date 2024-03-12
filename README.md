@@ -34,8 +34,26 @@ Onde podem me encontrar:
 
 ### Análise de Performance de Alunos
 <img align="right" widht="500" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true">
- Projeto desenvolvido para análise e entendimento da performance dos alunos em uma Escola de Ensino Médio, no Estado do Espírito Santo. utilizando a linguagem Dax para medidas e
+ Este projeto tem como objetivo monitorar o desempenho dos alunos em uma Escola de Ensino Médio e Técnico, utilizando a linguagem Dax para medidas e
  cálculos.<br> <br>
+ 
+ <br> Esta unidade escolar conta com os Cursos De Administração e também Manutenção e Suporte Em Informática. <br>
+
+ <br> A grande dificuldade da unidade escolar era acompanhar toda a trajetória do aluno e também das turmas no decorrer de três anos letivos. <br>
+
+ As dúvidas eram: <br>
+<br>
+Como está o desempenho das disciplinas da Base Nacional (BNCC)?<br>
+Como está o desempenho das disciplinas do Curso Técnico?<br>
+Como está o desempenho das turmas?<br>
+Elas evoluiram no aprendizado ao decorrer dos anos?<br>
+Quem são os alunos Top 10 da nossa unidade escolar?<br>
+Quem são os alunos Top 10 da turma?<br>
+Como está o Ranking Top 10, analisando por sexo?<br>
+
+Todas essas perguntas e um pouco mais foram esclarecidas através do desenvolvimento desse projeto que eu compartilho com todos vocês abaixo:
+ 
+
  Principais desafios: <br>
  -Desenvolver medidas com a linguagem DAX.<br>
  -Medir a performance e comparar turmas de anos diferentes e fazer comparativos entre as disciplinas ao decorrer do ano.<br>
