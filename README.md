@@ -49,7 +49,7 @@ Quem são os alunos Top 10 da nossa unidade escolar?<br>
 Quem são os alunos Top 10 da turma?<br>
 Como está o Ranking Top 10, analisando por sexo?<br>
 
-https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Top10.png?raw=true>
+<img height="500" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Top10.png?raw=true">
 
 Todas essas perguntas e um pouco mais foram esclarecidas através do desenvolvimento desse projeto que eu compartilho com todos vocês abaixo:
  
