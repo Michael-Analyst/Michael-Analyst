@@ -1,4 +1,4 @@
-![image](https://github.com/Michael-Lemos/Michael-Lemos/assets/154101969/8e8bc504-1897-432a-9129-c9e5fc80bfef)### Hello World, I'm Michael👋🏻
+### Hello World, I'm Michael👋🏻
 #### Apaixonado por Business Intelligence
 ### Analista de Sistemas
 
