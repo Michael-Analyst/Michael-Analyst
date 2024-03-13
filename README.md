@@ -34,8 +34,9 @@ Onde podem me encontrar:
 
 ### Análise de Performance de Alunos
 <img align="right" widht="500" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true">
- Este projeto tem como objetivo monitorar o desempenho dos alunos em uma Escola de Ensino Médio e Técnico, utilizando a linguagem Dax para medidas e
- cálculos.<br> <br>
+ Este projeto tem como objetivo monitorar o desempenho dos alunos em uma Escola de Ensino Médio e Técnico: <br>
+ 
+ <br> A linguagem utilizada para medidas e cálculos foi a linguagem DAX.<br> <br>
  
  <br> Esta unidade escolar conta com os Cursos De Administração e também Manutenção e Suporte Em Informática. <br>
 
