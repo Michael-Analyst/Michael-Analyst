@@ -33,7 +33,7 @@ Onde podem me encontrar:
 ## Portifólio e Principais Projetos
 
 ### Análise de Performance de Alunos
-<img align="right" widht="500" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true">
+<br>
  Este projeto tem como objetivo monitorar o desempenho dos alunos em uma Escola de Ensino Médio e Técnico: <br>
 <img height="500" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Painel.png?raw=true">
  
