@@ -1,4 +1,4 @@
-### Hello World, I'm Michael👋🏻
+![image](https://github.com/Michael-Lemos/Michael-Lemos/assets/154101969/8e8bc504-1897-432a-9129-c9e5fc80bfef)### Hello World, I'm Michael👋🏻
 #### Apaixonado por Business Intelligence
 ### Analista de Sistemas
 
@@ -35,6 +35,7 @@ Onde podem me encontrar:
 ### Análise de Performance de Alunos
 <img align="right" widht="500" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/DesempenhoEscolar_ComparativoEntreTurmas.png?raw=true">
  Este projeto tem como objetivo monitorar o desempenho dos alunos em uma Escola de Ensino Médio e Técnico: <br>
+<img height="40" widht="40" https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Painel.png?raw=true>
  
  <br> A linguagem utilizada para medidas e cálculos foi a linguagem DAX.<br> <br>
  
