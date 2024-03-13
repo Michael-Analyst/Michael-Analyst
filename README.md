@@ -38,7 +38,7 @@ Onde podem me encontrar:
 <img height="500" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Painel.png?raw=true"> 
  <br> A linguagem utilizada para medidas e cálculos foi a linguagem DAX.
  <br> Esta unidade escolar conta com os Cursos De Administração e também Manutenção e Suporte Em Informática. 
- <br> A grande dificuldade da unidade escolar era acompanhar toda a trajetória do aluno e também das turmas no decorrer de três anos letivos. <br>
+ <br> A grande dificuldade da unidade escolar era acompanhar toda a trajetória do aluno e também das turmas no decorrer de três anos letivos.<br> <br>
 
  As dúvidas eram: <br><br>
 Como está o desempenho das disciplinas da Base Nacional (BNCC)?<br>
@@ -52,7 +52,7 @@ Como está o Ranking Top 10, analisando por sexo?<br>
 Todas essas perguntas e um pouco mais foram esclarecidas através do desenvolvimento desse projeto que eu compartilho com todos vocês abaixo:
  
 
- Principais desafios: <br>
+ Principais desafios: <br><br>
  -Desenvolver medidas com a linguagem DAX.<br>
  -Medir a performance e comparar turmas de anos diferentes e fazer comparativos entre as disciplinas ao decorrer do ano.<br>
  -Interpretação de performance dos alunos por distinção de sexo.<br>
