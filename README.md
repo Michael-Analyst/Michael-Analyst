@@ -40,7 +40,7 @@ Onde podem me encontrar:
  <br> Esta unidade escolar conta com os Cursos De Administração e também Manutenção e Suporte Em Informática. 
  <br> A grande dificuldade da unidade escolar era acompanhar toda a trajetória do aluno e também das turmas no decorrer de três anos letivos. <br>
 
- As dúvidas eram: <br>
+ As dúvidas eram: <br><br>
 Como está o desempenho das disciplinas da Base Nacional (BNCC)?<br>
 Como está o desempenho das disciplinas do Curso Técnico?<br>
 Como está o desempenho das turmas?<br>
