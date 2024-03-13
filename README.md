@@ -36,10 +36,8 @@ Onde podem me encontrar:
 <br>
  Este projeto tem como objetivo monitorar o desempenho dos alunos em uma Escola de Ensino Médio e Técnico: <br>
 <img height="500" widht="40" src="https://github.com/Michael-Lemos/DesempenhoEnsino/blob/main/Imagens/Painel.png?raw=true"> 
- <br> A linguagem utilizada para medidas e cálculos foi a linguagem DAX.<br> <br>
- 
+ <br> A linguagem utilizada para medidas e cálculos foi a linguagem DAX.<br> <br> 
  <br> Esta unidade escolar conta com os Cursos De Administração e também Manutenção e Suporte Em Informática. <br>
-
  <br> A grande dificuldade da unidade escolar era acompanhar toda a trajetória do aluno e também das turmas no decorrer de três anos letivos. <br>
 
  As dúvidas eram: <br>
